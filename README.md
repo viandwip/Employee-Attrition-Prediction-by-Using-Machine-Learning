@@ -2,7 +2,7 @@
 
 ## 1. Goals & Objectives
 **Goals:**
-1. Mengurangi tingkat employee attrition (resign) untuk pekerja yang berada di perusahaan hingga di bawah 10%.
+1. Mengurangi tingkat employee attrition (resign) hingga di bawah 10%.
 2. Mengetahui faktor-faktor yang dapat menyebabkan seorang karyawan resign.
 
 **Objectives:**
