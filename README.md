@@ -86,7 +86,7 @@ Dengan menggunakan hasil *hyperparameter tuning* untuk model KNN, kita melatih l
 - **False Negative**: Diprediksi bertahan dan ternyata  salah sebanyak 22
 
 ### 4.4 SHAP Values
-<p align="center"><img src="images/SHAP Values.png" alt="SHAP Values"></p>
+<p align="center"><img src="images/SHAP Values.png" alt="SHAP Values" width=70% ></p>
 
 ### 4.5. Business Insights
 Beberapa insight yang bisa didapatkan berdasarkan grafik **Shap Values** pada slide sebelumnya adalah :
