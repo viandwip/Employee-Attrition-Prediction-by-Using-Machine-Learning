@@ -85,7 +85,9 @@ Dengan menggunakan hasil *hyperparameter tuning* untuk model KNN, kita melatih l
 - **False Positive**: Diprediksi keluar dan ternyata salah sebanyak 104
 - **False Negative**: Diprediksi bertahan dan ternyata  salah sebanyak 22
 
-### 4.4 SHAP Values
+Setelah menggunakan *machine learning*, maka **employee attrition rate** berkurang dari **16.1%** menjadi **3.2%** ((22/695) * 100%). 
+
+### 4.4. SHAP Values
 <p align="center"><img src="images/SHAP Values.png" alt="SHAP Values" width=70% ></p>
 
 ### 4.5. Business Insights
